@@ -1,0 +1,2225 @@
+NSAIDs
+corticosteroids
+abatacept
+ORENCIA
+MTX
+azathioprine
+chloroquine
+gold
+hydroxychloroquine
+leflunomide
+sulfasalazine
+anakinra
+TNF
+medications
+heparin
+beta-adrenergic receptor blockers
+calcium channel
+angiotensin converting enzyme inhibitors
+nitrates
+ticlopidine
+aspirin
+anticoagulants
+thrombolytic
+anti platelet agents
+Acamprosate
+alcohol
+diazepam
+beta-naltrexol
+anxiolytics
+hypnotics
+sedatives
+benzodiazepines
+non-opioid analgesics
+antidepressants
+medication
+thiazides
+diuretics
+phenothiazines
+thyroid
+estrogens
+oral contraceptives
+phenytoin
+nicotinic acid
+sympathomimetics
+calcium channel-blocking drugs
+isoniazid
+Acarbose
+sulfonylureas
+insulin
+charcoal
+digestive enzyme preparations
+amylase
+pancreatin
+digoxin
+nifedipine
+propranolol
+ranitidine
+sulfonylurea
+max
+metformin
+reserpine
+beta-blocking agent
+stimulants
+beta-adrenoceptor blocking agent
+nonsteroidal anti-inflammatory drugs
+hydrochlorothiazide
+hydralazine
+sulfinpyrazone
+tolbutamide
+warfarin
+DIAMOX
+primidone
+metabolites
+anticonvulsant
+folic acid antagonists
+amphetamine
+quinidine
+prevent
+antiseptic
+methenamine
+lithium
+sodium bicarbonate
+cyclosporine
+iron
+acyclovir
+etretinate
+acitretin
+ethanol
+glibenclamide
+chlorpropamide
+combined oral contraceptives
+contraceptive
+microdosed progestin minipill preparations
+Soriatane
+methotrexate
+tetracyclines
+retinoids
+vitamin A
+cimetidine
+glyburide
+coumarin
+LDH
+interleukin-1 antagonist
+medicinal product
+HUMIRA
+astringents
+lime
+resorcinol
+salicylic acid
+DIFFERIN
+aminoglycosides
+gentamicin
+amikacin
+amphotericin B
+non-steroidal anti-inflammatory drugs
+ibuprofen
+tacrolimus
+vancomycin
+adenosine
+cardioactive drugs
+beta-adrenergic blocking agents
+calcium channel blocking agents
+verapamil
+Adenocard
+digitalis
+methylxanthines
+caffeine
+theophylline
+dipyridamole
+carbamazepine
+ketoconazole
+itraconazole
+Xanax
+sertraline
+diltiazem
+macrolide antibiotics
+albendazole sulfoxide
+dexamethasone
+albendazole
+praziquantel
+n=7
+aminophylline
+narcotics
+analgesics
+antiemetics
+tranquilizers
+indomethacin
+doxorubicin
+asparaginase
+PROLEUKIN
+antineoplastic agents
+drugs
+dacarbazine
+cis-platinum
+tamoxifen
+interferon-alfa
+12 Beta-blockers
+other antihypertensives
+drug
+Campath
+antibodies
+alendronate
+cations
+CNS depressants
+barbiturates
+opioids
+general anesthetics
+ALFENTA
+erythromycin
+alpha-blockers
+Aliskiren
+CYP
+atenolol
+furosemide
+celecoxib
+valsartan
+amlodipine
+isoenzymes
+CYP1A2
+lovastatin
+atorvastatin
+ramipril
+N-diethyl-m-toluamide
+DEET
+protease inhibitors
+azole antifungals
+Allopurinol
+mercaptopurine
+Purinethol
+Imuran
+anticoagulant
+dicumarol
+oxipurinol
+urate
+uricosuric agents
+xanthine oxidase
+hypoxanthine
+xanthine
+thiazide diuretics
+Amoxicillin
+ampicillin
+cyclophosphamide
+cytotoxic agent
+bleomycin
+procarbazine
+mechlorethamine
+compete
+allopurinol sodium
+liver
+dihydroergotamine
+methysergide
+AXERT?
+moclobemide
+almotriptan
+fluoxetine
+fluvoxamine
+paroxetine
+agonists
+CYP3A4
+ritonavir
+alosetron
+CYP2C9
+CYP2C19
+alosetron 1 mg
+quinolone antibiotic
+clarithromycin
+telithromycin
+voriconazole
+cyp enzyme
+CYP2E1
+N-acetyltransferase
+acetyltransferase
+procainamide
+oral contraceptive agent
+levonorgestrel
+cisapride
+monoamine oxidases
+cytochrome P450
+alprazolam
+CNS depressant
+psychotropic medications
+anticonvulsants
+antihistaminics
+desipramine
+Cytochrome P450 3A
+propoxyphene
+ergotamine
+amiodarone
+nicardipine
+Prostin VR
+penicillin
+dopamine
+isoproterenol
+alprostadil
+acetylsalicylic acid
+Abciximab
+Activase
+prohibit
+MAO inhibitor
+altretamine
+cisplatin
+pyridoxine
+HEXALEN
+central nervous system stimulants
+amantadine
+amantadine hydrochloride
+triamterene
+demecarium
+Humorsol
+echothiophate
+Phospholine Iodide
+isoflurophate
+Floropryl
+malathion
+medicines
+guanadrel
+Hylorel
+guanethidine
+Ismelin
+mecamylamine
+Inversine
+Pronestyl
+trimethaphan
+angiotensin-converting enzyme inhibitor
+diuretic
+antihypertensive
+potassium
+non-steroidal anti-inflammatory agents
+potassium-sparing diuretics
+MIDAMOR
+AMICAR
+fibrinogen
+procaine
+griseofulvin
+sulfonamides
+LEVULAN KERASTICK
+Lanoxin
+Lanoxicaps
+gets
+aminosalicylic acid
+vitamin B12
+desethylamiodarone
+cytochromes P450 3A4
+CYP2C8
+antiarrhythmics
+indinavir
+protease inhibitor
+CYP2D6
+Simvastatin
+antiarrhythmic drugs
+disopyramide
+antiarrhythmic
+receptor
+Rifampin
+Hypericum perforatum
+Fentanyl
+lidocaine
+local anesthesia
+t1
+fluoroquinolones
+dextromethorphan
+P450 2D6
+debrisoquin hydroxylase
+isozyme
+cytochrome P450 2D6
+propafenone
+flecainide
+active metabolite
+tricyclic antidepressant
+amitriptyline HCl
+anticholinergic agents
+sympathomimetic drugs
+epinephrine
+local anesthetics
+neuroleptic drugs
+anticholinergic-type drugs
+tricyclic antidepressants
+anticholinergic
+human plasma
+NORVASC
+antacid
+Maalox
+sildenafil
+prothrombin
+beta-blockers
+angiotensin-converting enzyme inhibitors
+nitroglycerin
+antibiotics
+oral hypoglycemic drugs
+anticholinergic drugs
+amoxapine
+hydroxylase
+P450 2D6 isozyme
+probenecid
+macrolides
+glucose
+enzymatic glucose oxi-dase
+estriol
+estrone
+estradiol
+potassium clavulanate
+AUGMENTIN
+Ame
+pediatric
+glutamic acid HCl
+ascorbic acid
+amphetamines
+ammonium chloride
+sodium acid phosphate
+acetazolamide
+tricyclic - amphetamines
+sympathomimetic agents
+protriptyline
+tricyclics
+d-amphetamine
+metabolite
+furazolidone
+norepinephrine
+antihistamines
+antihypertensives
+norepinephrine receptors
+central stimulant
+ethosuximide
+dopamine receptors
+lithium carbonate
+meperidine
+acidifying agents
+phenobarbital
+amphetamine CNS
+veratrum alkaloids
+corticosteroid
+nitrogen mustard
+Corticotropin
+ACTH
+flucytosine
+miconazole
+clotrimazole
+fluconazole
+imidazoles
+pentamidine
+curariform effect
+skeletal muscle relaxants
+tubocurarine
+Chloramphenicol
+erythromycins
+penicillins
+copper sulfate
+uridine
+UDPGT
+amprenavir
+HIV protease inhibitors
+methadone
+cholesterol
+triglycerides
+AST
+NORVIR
+drinking alcohol
+anagrelide
+PK
+acetaminophen
+hydroxyurea
+cyclic AMP
+milrinone
+enoximone
+amrinone
+olprinone
+cilostazol
+etanercept
+ANC  1 x 109/L
+cytochromes P450 1A2
+P450
+polymorphic P450 2D6
+antipyrine
+ARIMIDEX
+anastrozole
+hormone receptor
+anidulafungin
+anesthetics
+oral anticoagulants
+vitamin K
+net
+protein
+oral anticoagulant
+sulfamethoxazole
+hypoglycemic action
+hypoglycemic agents
+clofibrate
+dextran
+indanedione anticoagulant
+anisindione
+ondansetron
+apomorphine
+granisetron
+dolasetron
+palonosetron
+Vasodilators
+dopamine agonist
+dopamine antagonists
+neuroleptics
+butyrophenones
+thioxanthenes
+metoclopramide
+APOKYN
+dopamine agonists
+MAO inhibitors
+opiates
+clonidine
+cardiac glycosides
+IOPIDINE 0
+aprepitant
+glycoprotein
+methylprednisolone
+oral methylprednisolone
+tolbutamide 500 mg
+oral contraceptive
+ethinyl estradiol
+norethindrone
+midazolam
+Aprepitant 125 mg
+triazolam
+nefazodone
+troleandomycin
+nelfinavir
+diltiazem 120 mg
+paroxetine 20 mg
+arbutamine
+atropine
+digitalis glycosides
+derivatives
+platelet aggregation inhibitors
+ardeparin
+adrenergic agonists
+agonist
+potassium sparing diuretics
+monoamine oxidase inhibitors
+Argatroban
+thrombolytic agents
+antiplatelet agents
+ABILIFY
+centrally acting drugs
+aripiprazole
+antihypertensive agents
+CYP1A1
+CYP2A6
+CYP2B6
+BID
+valproate
+omeprazole
+thioridazine
+ELSPAR
+phenylbutazone
+oxyphenbutazone
+dipyrone
+nonsteroidal anti-inflammatory agents
+salicylate
+Serum phenytoin level
+receptors
+Coated Aspirin
+antacids
+TENORMIN
+beta blocker
+beta-blocker
+beta blockers
+albuterol
+atomoxetine
+STRATTERA
+pressor agents
+niacin
+isozymes
+colestipol
+cytochrome P450 3A4
+adrenal
+cortisol
+spironolactone
+plasma protein
+atovaquone
+MEPRON
+rifamycin
+rifabutin
+TRACRIUM
+enflurane
+polymyxins
+succinylcholine
+pralidoxime
+anticholinesterases
+Solganal
+Myochrysine
+penicillamine
+Depen
+Cuprimine
+arthritis medication
+central nervous system depressants
+methyldopa
+pseudoephedrine
+kaolin
+co-trimoxazole
+angiotensin converting enzyme
+azithromycin
+cetirizine
+didanosine
+efavirenz
+trimethoprim
+zidovudine
+ergot
+hexobarbital
+ciprofloxacin
+netilmicin
+tobramycin
+other medications
+morphine
+alkaline phosphatase
+mesalamine
+mycophenolate mofetil
+ATG
+muromonab-CD3
+antidiabetic drugs
+Lotensin
+amiloride
+potassium supplement
+acenocoumarol
+ACE inhibitors
+chlorthalidone
+naproxen
+beta-adrenergic-blocking agents
+calcium-channel-blocking agents
+beta-adrenergic blockers
+cholestyramine
+Tylenol
+Chloromycetin
+benzocaine
+para-aminobenzoic acid
+PABA
+sunscreens
+multivitamins
+sulfa
+pancreatic
+bentoquatam
+CNS stimulants
+blood thinner
+decongestant drugs
+Aleve
+haloperidol
+Bepridil
+bepridil hydrochloride
+anti-arrhythmic agents
+tricyclic anti-depressants
+Kerlone
+oral anticoagulant warfarin
+calcium antagonist
+dihydropyridine
+AVASTIN
+irinotecan
+gemfibrozil
+bexarotene
+Targretin
+Bezalip
+anion-exchange resins
+MAO-inhibitors
+coumarin anticoagulant
+AKINETON
+narcotic analgesics
+antipsychotics
+ZEBETA
+myocardial depressants
+antiarrhythmic agent
+plasma proteins
+thrombin
+red blood cells
+Angiomax
+plasma expander
+bivalirudin
+vaccines
+VELCADE
+antidiabetic
+bosentan
+Contraceptives
+oral hormonal contraceptive Ortho-Novum?
+cyclosporine A
+aminotransferases
+bosentan 125 mg
+Statins
+-hydroxy acid metabolite
+Nimodipine
+Losartan
+curare
+toxin
+botulinum toxin
+Bretylium Tosylate Injection
+Bretylium Tosylate
+anti-hypertensives
+brinzolamide ophthalmic suspension
+carbonic anhydrase inhibitor
+bromocriptine mesylate
+pimozide
+ergot alkaloids
+anticholinergics
+monoamine oxidase
+MAO
+oral budesonide
+saquinavir
+budesonide
+grapefruit
+bumetanide
+aminoglycoside antibiotics
+sodium
+antihypertensive drugs
+oxytocic drugs
+pressor effect
+cytochrome
+buprenorphine
+SUBUTEX
+SUBOXONE
+WELLBUTRIN
+hydroxybupropion
+CYP2B6 isoenzyme
+orphenadrine
+bupropion
+CYP2D6 isoenzyme
+isoenzyme
+nortriptyline
+imipramine
+risperidone
+metoprolol
+levodopa
+systemic
+buspirone HCl
+psychotropic drugs
+cns-active drugs
+Desyrel
+serum proteins
+levothyroxine sodium
+busulfan
+Zofran
+Kytril
+BUSULFEX
+glutathione-S-transferase
+glutathione
+medicine
+divalproex sodium
+valproic acid
+birth control
+other narcotic analgesic
+chlordiazepoxide
+sedative-hypnotics
+urinary 5-hydroxyindoleacetic acid
+central nervous system depressant
+butorphanol
+STADOL NS
+sumatriptan
+sumatriptan nasal spray
+nasal vasoconstrictor
+oxymetazoline
+ketoprofen
+Vitamin D3
+Calcitriol
+Calcidiol
+vitamin D
+Rocaltrol
+calcium
+phosphate-binding agents
+calcium-containing preparations
+magnesium-containing preparations
+heart medicine
+cephalothin sodium
+magnesium sulfate
+prednisolone
+prochlorperazine edisylate
+enalapril
+angiotensin II receptor antagonists
+ATACAND
+magnesium hydroxide-containing antacid
+capecitabine
+5-FU
+FBAL
+coumarin-derivative anticoagulants
+phenprocoumon
+fluorouracil
+leucovorin
+salt
+captopril
+vasodilator
+renin
+adrenergic neuron blocking agents
+aldosterone
+ACE inhibitor
+acetone
+Epoxide Hydrolase
+carbamazepine 10
+EQUETROTM
+dalfopristin
+danazol
+delavirdine
+loratadine
+niacinamide
+nicotinamide
+quinine
+quinupristin
+zileuton
+doxorubicin HCL
+felbamate
+methsuximide
+amitriptyline
+buspirone
+citalopram
+clobazam
+clonazepam
+clozapine
+cyclosporin
+doxycycline
+felodipine
+lamotrigine
+levothyroxine
+lorazepam
+mirtazapine
+olanzapine
+oxcarbazepine
+quetiapine
+topiramate
+tiagabine
+tramadol
+ziprasidone
+zonisamide
+Clomipramine
+mefloquine
+carbenicillin indanyl sodium
+LODOSYN
+Carbidopa
+carbidopa-levodopa
+antihypertensive drug
+carbidopa-levodopa preparations
+papaverine
+dopamine receptor antagonistic
+iodine
+Carbimazole
+digitoxin
+antithyroid agents
+sodium iodide I131
+beta adrenergic blockers
+oxytocic agents
+beta-adrenergic blocking agent
+carvedilol
+enantiomer
+COREG
+calcium channel blockers
+oral hypoglycemics
+mycophenolate
+FK-506
+c4
+CANCIDAS
+caspofungin
+nevirapine
+cephalosporin antibiotics
+cephalosporins
+cephalosporin
+magnesium
+cefdinir
+OMNICEF
+c233 -lactam antibiotics
+iron supplement
+elemental iron
+vitamins
+nitroprusside
+nitroferricyanide
+cefditoren pivoxil
+estrogenic
+famotidine
+H2 receptor
+b-lactam antibiotics
+cefditoren
+hexokinase
+MAXIPIME
+cefepime
+SUPRAX
+cefixime
+cefotaxime sodium
+aminoglycoside
+CEFOTAN
+cefotetan
+creatinine
+cephalothin
+cefoxitin
+cefprozil
+beta-lactam antibiotic
+ceftazidime
+h 2 -receptor antagonists
+ceftibuten
+cefuroxime
+cytochrome P450 2C9
+ACE-inhibitors
+natriuretic
+CELEBREX
+cephalexin
+organic cationic
+lactams
+Keflex
+Magnesium-Aluminum Hydroxide
+Cerivastatin
+bile-acidsequestering agent
+cerivastatin sodium
+factor VII
+angiotensin- converting enzyme
+calcium-channel blockers
+beta adrenergic antagonists
+parasympathomimetic
+cevimeline
+antimuscarinic
+chlorambucil
+chloroprocaine
+sulfonamide
+antidiabetic drug
+pressor amines
+muscle relaxant
+chlorothiazide
+non-steroidal anti-inflammatory agent
+parathyroid
+bromocriptine
+dantrolene
+nicotine
+somatropin
+chlorpheniramine
+diclofenac
+imatinib
+propofol
+antipsychotic drug
+chlorpromazine
+antiparkinsonian drug
+trihexyphenidyl
+anti-anxiety drugs
+sparfloxacin
+grepafloxacin
+metrizamide
+cabergoline
+narcotic
+codeine
+diphenhydramine
+salicylates
+coumarins
+beta adrenergic blocking agents
+DIABINESE
+calcium channel blocking drugs
+opioid
+chlorprothixene
+Ultram
+antiparkinsonian agents
+resin
+tetracycline
+thyroxine preparation
+progestins
+positively-charged bile acid sequestrant
+bile acids
+water
+CHOLESTYRAMINE RESIN
+des
+ciclesonide
+VISTIDE
+foscarnet
+pentamidin
+cytochrome P-450
+PLETAL
+microsomal enzyme
+metronidazole
+Tagamet
+vinblastine
+cinacalcet
+Sensipar
+PTH
+quinolones
+cinoxacin
+caffeine-containing
+sucralfate
+zinc
+Videx
+buffer
+nonsteroidal anti-inflammatory drug
+quinolone
+cation
+aluminum antacids
+belladonna alkaloids
+dicyclomine
+sotalol
+maprotilin
+terodiline
+NIMBEX
+pancuronium
+atracurium
+nitrous oxide
+oxygen
+isoflurane
+nondepolarizing agent
+bacitracin
+lincomycin
+clindamycin
+colistin
+magnesium salt
+hexamethylmelamine
+muscle relaxants
+AUGMENTIN XR
+CNS depressant drugs
+clidinium
+neuromuscular blocking agents
+clofarabine
+Lamprene
+dapsone
+clofazimine
+Atromid-S
+fibrate
+fibrates
+methylphenidate
+enzyme inhibitors
+isoform
+Anafranil
+propantheline
+anticholinergic agent
+antifungal agents
+benzodiazepine
+antianxiety agents
+thioxanthene
+butyrophenone
+antipsychotic agents
+anticonvulsant drugs
+analgesic
+ethyl alcohol
+TRANXENE
+psychotropic drug
+N-desmethylclozapine
+debrisoquin
+serotonin reuptake inhibitors
+encainide
+coagulation factor
+prothrombin complex concentrates
+aminocaproic acid
+NovoSeven
+alkalinizing agents
+colchicine
+Calan
+hmg-coa reductase inhibitor
+anion exchange resin
+COLESTID
+colestipol hydrochloride
+penicillin G
+oral phosphate supplements
+hydrocortisone
+polymyxin
+ether
+gallamine
+decamethonium
+sodium citrate
+Coly-Mycin M Parenteral
+conivaptan
+antigen
+VIII coagulant
+beta-thromboglobulin
+antithrombin III
+thyroid hormone
+corticosteroid binding globulin
+CBG
+binding globulin
+angiotensinogen
+/renin substrate
+alpha-1-antitrypsin
+ceruloplasmin
+LDL cholesterol
+cortico-steroids
+pyrimethamine
+folic acid
+carbachol
+pilocarpine
+miotic
+cholinesterase inhibitors
+other cytotoxic drugs
+Nydrazid
+glycoside
+vincristine
+prednisone
+cytarabine
+Dactinomycin
+antibacterial drug
+microsomal enzymes
+Dantrium
+diphenylhydantoin
+halothane
+vecuronium
+TMP
+NAD
+daptomycin
+HMG-CoA reductase
+HMG-CoA reductase inhibitors
+atazanavir
+rifampicin
+Proton Pump Inhibitors
+H2 blockers
+alfentanil
+astemizole
+terfenadine
+sirolimus
+total bilirubin
+Cerubidine
+physostigmine
+lignocaine
+metaclopramide
+terbutaline
+cytochrome p450 enzyme
+decitabine
+aluminum-containing antacid preparations
+Exjade
+vitamin C
+iron chelator therapies
+deferasirox
+anticholinesterase agents
+oral contraceptives less effect
+anesthetic agents
+desflurane
+psychotropic agents
+sedative
+major tranquilizers
+desloratadine 7
+erythromycin 500 mg
+ketoconazole 200 mg
+azithromycin 500 mg
+fluoxetine 20 mg
+cimetidine 600 mg
+desloratadine
+Desmopressin
+antidiuretic
+phenyl
+phenytoin sodium
+Aminoglutethimide
+antidiabetic agents
+Ephedrine
+nonsteroidal antiinflammatory agents
+thalidomide
+toxoids
+inactivated vaccines
+live attenuated vaccines
+selegiline hydrochloride
+venlafaxine
+reuptake inhibitor
+dexfenfluramine
+Imitrex
+sumatriptan succinate
+PRECEDEX
+anesthetic
+hypnotic
+rocuronium
+gastrointestinal acidifying agents
+Adrenergic blockers
+gastrointestinal alkalinizing agents
+antianxiety drugs
+opiate
+iodine-containing
+lansoprazole
+carbonic anhydrase inhibitors
+prostaglandins
+NSAID
+D-penicillamine
+oxacillin
+chlortetracycline
+factors V
+prostaglandin synthetase inhibitor
+prostaglandin
+bacteriostat
+nitrites
+dispersible buffered tablets
+ganciclovir
+dispersible tablet
+estrogen
+factors VII
+T4
+diethylpropion
+diethylstilbestrol
+diflunisal
+nonsteroial anti-inflammatory drugs
+prostacyclin
+sulindac
+sulindac sulfide metabolite
+glucuronide metabolite
+diphenoxylate
+kaolin-pectin
+neomycin
+dihydroergotamine mesylate
+vasoconstrictors
+ergot alkaloid
+macrolide
+dihydrotachysterol
+Tiazac
+cytochrome P-450 3A4
+pravastatin
+emetic
+oxytocics
+dinoprost
+diphenidol
+atropine sulfate
+diphenoxylate hydrochloride
+microsomal drug
+anticholinesterase
+dirithromycin
+acid metabolite
+h 2 receptor antagonists
+Norpace
+Norpace CR
+disopyramide phosphate
+CONGENER
+DISULFIRAM
+nitrite
+digitalis preparation
+glyceryl trinitrate
+isosorbide dinitrate
+protamine
+potassium chloride
+TAXOTERE
+TIKOSYN
+dofetilide
+magnesium hydroxide
+HCTZ
+/triamterene 50/100
+CYP3A4 isoenzyme
+norfloxacin
+zafirlukast
+medroxyprogesterone
+sulphonylureas
+loop diuretics
+chemotherapy agents
+chemotherapeutic agent
+5-fluorouracil
+CYP 2D6
+Aricept
+dopamine HCl
+alpha-adrenergic blocking agents
+halogenated hydrocarbon anesthetics
+cyclopropane
+ergonovine
+bronchodilators
+NUROMAX
+sympathomimetic
+additive pressor effect
+doxapram
+doxazosin mesylate
+oral cimetidine
+doxazosin
+endocrine drugs
+escitalopram
+doxepin
+SINEQUAN
+tolazamide
+iron-containing preparations
+bismuth subsalicylate
+Penthrane
+methoxyflurane
+doxylamine
+androgens
+INAPSINE
+Xigris
+unfractionated heparin
+prophylactic
+low molecular weight heparins
+factor VIII
+factor II
+Duloxetine
+CYP3A
+magnesium-containing antacids
+sympathomimetic bronchodilators
+dyphylline
+organophosphate
+carbamate insecticide
+Edetate calcium disodium
+anticholinesterase drugs
+immunosuppressive
+RAPTIVA
+SUSTIVA
+ritonavir 100 mg
+imidazole
+triazole antifungals
+lamivudine
+stavudine
+famciclovir
+tenofovir disoproxil fumarate
+enalaprilat
+VASOTEC
+beta adrenergic-blocking agents
+prazosin
+thiazide-type diuretics
+potassium-containing salt substitutes
+enfuvirtide
+antiretroviral medications
+antiretroviral medication
+enoxacin
+quinolone class
+tissue quinolone
+aluminum hydroxide
+platelet inhibitors
+cylate
+ketorolac tromethamine
+entacapone
+Catechol-O-methyltransferase
+prolactin
+dopa decarboxylase inhibitor
+beta-glucuronidase
+dopa-decarboxylase inhibitor
+BARACLUDE
+entecavir
+adefovir dipivoxil
+halogenated hydrocarbon general anesthetics
+pressor drugs
+epirubicin
+ELLENCE
+eplerenone
+verapamil 240 mg
+fluconazole 200 mg
+INSPRA
+enalapril 10 mg
+FLOLAN
+eprosartan
+thiazide diuretic
+eptifibatide
+vitamin D preparations
+ergocalciferol
+triacetyloleandomycin
+ERGOMAR
+vasoconstrictor drugs
+erlotinib
+TAO
+rifapentine
+St. Johns Wort
+TARCEVA
+bilirubin
+500
+ertapenem
+isoforms
+LEXAPRO
+Celexa
+pimozide 2 mg
+citalopram 40 mg
+serotonin reuptake inhibitor
+beta-adrenergic blocker metoprolol
+beta blocking agents
+esmolol HCl
+BREVIBLOC
+CYPs 1A2
+esomeprazole
+14-hydroxyclarithromycin
+estazolam
+isoniazide
+estazolam 2 mg
+sex hormone-binding globulin
+EMCYT
+eszopiclone
+eszopiclone 3 mg
+lorazepam 2 mg
+olanzapine 10 mg
+zopiclone
+ANC   1 x 109/L
+ENBREL
+ethacrynic acid
+steroidal anti- inflammatory agents
+aluminum hydroxide containing antacid
+ethambutol
+aluminum hydroxide containing antacids
+ethchlorvynol
+ethinamate
+antituberculous drugs
+cycloserine
+antiepileptic drugs
+Phenurone
+phenacemide
+synthetic estrogens
+progestin
+oxazepam
+temazepam
+clofibric acid
+nafcillin
+rifamycins
+lopinavir
+selegiline
+antidepressant
+black cohosh
+red clover
+ginseng
+Lodine
+etodolac
+urobilin
+phenolic metabolite
+Dilantin
+Tegretol
+Trileptal
+Topamax
+Felbatol
+antifungals
+Gris-PEG
+Nizoral
+Sporanox
+Lipitor
+Neoral
+Sandimmune
+Agenerase
+Crixivan
+Fortovase
+Invirase
+Kaletra
+Viracept
+Astramorph
+Kadian
+MS Contin
+Prelone
+rifadin
+Theo-Dur
+levamisole hydrochloride
+etoposide
+exemestane
+penciclovir
+aldehyde oxidase
+aminopyrine
+carbamazepine epoxide
+gestodene
+PLENDIL
+fenfluramine
+TRICOR
+bile acid sequestrants
+bile acid
+rises
+fibrate drugs
+immunosuppressants
+fenofibric acid
+fenofibrate
+fenoldopam
+calcium channel-blockers
+thiazide
+fenoprofen
+plasma albumin
+Nalfon
+albumin
+opioid analgesics
+fexofenadine
+ketoconazole 400 mg
+fexofenadine hydrochloride 120
+fexofenadine hydrochloride
+magnesium containing antacid
+magnesium containing antacids
+ALLEGRA
+angiotensin-converting enzyme
+prostaglandin synthetase inhibitors
+quinolone anti-infectives
+Finasteride
+thyroid-stimulating hormone
+thyroxine
+low-density lipoproteins
+high-density lipoproteins
+luteinizing
+follicle-stimulating
+FSH
+gonadotropin-releasing
+TAMBOCOR
+Floxuridine
+cytostatic agent
+antifungal
+Ancobon
+pentostatin
+potassium-depleting diuretics
+fludrocortisone acetate
+oxymetholone
+norethandrolone
+inhalational anesthetics
+flumazenil
+benzodiazepine receptors
+ROMAZICON
+long-acting benzodiazepine
+short-acting benzodiazepines
+Coumadin
+Prozac
+MAOI
+flupenthixol
+flurbiprofen
+antacid suspension
+anti-coagulants
+n=9
+phenformin
+n= 3
+flutamide
+EULEXIN Capsules
+terbinafine
+desmethyldiazepam
+vitamin
+alcohol dehydrogenase
+Antizol
+piroxicam
+fondaparinux sodium
+fondaparinux
+200
+stimulant
+formoterol
+FORADIL
+salbutamol
+inhaled medications
+FOSCAVIR
+ionized calcium
+MONUROL
+fosfomycin
+fosinopril sodium
+simethicone
+fosinopril
+fosinoprilat
+propanolol
+fosphenytoin
+serum albumin
+Cerebyx
+proteins
+hepatic cytochrome p450 enzyme
+succinimides
+trazodone
+sodium valproate
+gamma glutamyl transpeptidase
+FROVA
+BSA
+anti-estrogenic
+fulvestrant
+FASLODEX
+furosemide tablets
+microsomal preparations
+gabapentin
+naproxen sodium
+morphine capsule
+norethindrone acetate
+urine protein
+gefitinib
+IRESSA
+histamine h2-receptor antagonists
+vinorelbine
+ethinylestradiol
+calcium carbonate
+progesterone
+gemifloxacin
+quinolone antimicrobial
+aluminum-containing antacids
+ferrous sulfate
+multivitamin preparations
+FACTIVE
+MICRONASE
+phe
+fluoroquinolone antibiotic
+glimepiride
+choline salicylate
+Trilisate
+salsalate
+Disalcid
+Arthropan
+magnesium salicylate
+Magan
+Pepto-Bismol
+Motrin
+Advil
+Nuprin
+Orudis
+Orudis KT
+Oruvail
+Voltaren
+Cataflam
+Indocin
+nabumetone
+Relafen
+oxaprozin
+Daypro
+Anaprox
+Naprosyn
+sulfamethoxazole-trimethoprim
+Bactrim
+Septra
+sulfisoxazole
+Gantrisin
+Azulfidine
+isocarboxazid
+Marplan
+tranylcypromine
+Parnate
+phenelzine
+Nardil
+Inderal
+acebutolol
+Sectral
+Lopressor
+Hydrodiuril
+Diuril
+Deltasone
+Orasone
+Medrol
+Pediapred
+Thorazine
+fluphenazine
+Prolixin
+Permitil
+prochlorperazine
+Compazine
+promethazine
+Phenergan
+Rifamate
+glipizide
+antiparkinson drugs
+wax
+pituitary
+gonadotropins
+theobromine
+nonsteroidal anti inflammatory drug
+antidiabetic agent
+cns-depressant drug
+nadolol
+timolol
+guanfacine
+coronary vasodilator
+antihyperlipidemics
+HALDOL
+non-depolarising muscle relaxant
+FLUOTHANE
+Heparin sodium
+warfarin sodium
+hemostatic
+droperidol
+mitoxantrone
+aminotransferase
+SGPT [S-ALT]
+heroin
+Valium
+proves
+diazoxide
+anionic exchange resins
+hydrocodon
+acetaminophen tablets
+hydrocodone preparation
+hydrocodone
+skeletal-muscle relaxants
+DILAUDID
+uricosuric medication
+NON-NARCOTIC ANALGESICS
+hydroxyzine
+Atarax
+LEVSIN
+Ibandronate
+anti-peptic agents
+Ibandronate 2.5 mg
+Nonsteroidal Antiinflammatory Drug
+bisphosphonates
+growth factor
+ZEVALIN
+clotting factor
+coumarin-type anticoagulants
+non-aspirin
+ibutilide
+EXTRANEAL
+cefazolin
+amphotericin
+maltose
+GDH
+garlic
+Allium sativum
+ginkgo
+Ginkgo biloba
+boric acid
+idoxuridine preparation
+ifosfamide
+antipyretics
+antiinflammatories
+iloprost
+Gleevec
+therapeutic agents
+cytochrome P450 isoenzyme CYP2D6
+sympathomimetic amine
+methylergonovine
+antiretroviral agents
+fluvastatin
+rosuvastatin
+non-steroidal antiinflammatory drugs
+REMICADE
+antivirals
+6-MP/AZA
+aminosalicylate
+somatostatin analog
+octreotide
+phenothiazine derivatives
+thyroid hormones
+progestogens
+lithium salt
+human insulin
+NovoLog
+crystalline zinc insulin preparation
+insulins
+insulin preparations
+Betaseron
+ATROVENT Inhalation Aerosol
+ipratropium bromide
+anticholinergic-containing drugs
+CYP 2C9
+cytochrome P450 isozymes 1A1
+irbesartan
+other antineoplastic agents
+antiemetic
+CAMPTOSAR
+Antabuse
+mixed-function oxidase enzyme
+cardiac stimulants
+sympathomimetic amines
+Accutane
+progesterone preparation
+isradipine
+calcium channel blocker
+hydroxyitraconazole
+drug product
+ketamine
+ketorolac
+5 to10
+TORADOL
+psychoactive drugs
+thiothixene
+arginine
+sildenafil citrate
+glutamine
+human growth hormone
+orphan drug
+L-glutamine
+paclitaxel
+medroxyprogesterone acetate
+L-histidine
+L-lysine
+phenelzine sulfate
+tranylcypromine sulfate
+pargyline
+Matulane
+Eldepryl
+tryptophan
+tyrosine
+labetalol HCl
+bronchodilator
+agonist drug
+labetalol
+vanillylmandelic acid
+lactulose
+zalcitabine
+omeprazole 20 mg
+Lapatinib
+transporter
+ABCB1
+latanoprost
+activated charcoal
+liver enzymes
+ARAVA
+lenalidomide
+rt-PA
+streptokinase
+REFLUDAN
+Femara
+tamoxifen 20 mg
+letrozole
+antiepileptic
+UDP
+levetiracetam
+tubular secretion blocking agent
+levetiracetam 1000 mg
+BETAGAN
+amide-type local anesthetics
+CYP1A2 isoform
+levobupivacaine
+Chirocaine
+isoenzyme family
+furafylline
+Levo-Dromoran
+nonopioid
+levorphanol
+/Antagonist Opioid Analgesics
+pentazocine
+nalbuphine
+dezocine
+isosorbide mononitrate
+sodium polystyrene sulfonate
+soybean
+binding proteins
+estrogen-containing compounds
+meclofenamic acid
+mefenamic acid
+perphenazine
+p-aminosalicylic acid
+pertechnetate
+antithyroid drugs
+b-adrenergic blocking agents
+chloral hydrate
+ethionamide
+6-mercaptopurine
+mitotane
+somatostatin analogs
+interferon
+interleukin
+Cytokines
+Linezolid
+serotonergic agents
+ZYVOX
+pressor
+vasopressor
+dopaminergic agents
+phenylpropanolamine
+oral
+T3
+thyroxine-binding globulin
+thyroxin
+Thyroid preparation
+parenteral anesthetic
+iodine-containing preparations
+thyroxine-binding prealbumin
+PRINIVIL
+lisinopril
+anti-hypertensive drug
+lofexidine
+lomefloxacin
+lomefloxacin 400 mg
+extended phenytoin
+loracarbef
+Loratadine 10 mg
+cns-depressant effects
+scopolamine
+P450 3A4
+angiotensin II
+non-steroidal anti-inflammatory drug
+MEVACOR
+remedies
+zinc supplement
+lymecycline
+meclofenamate sodium
+propoxyphene hydrochloride
+Ponstel
+related compounds
+malaria
+anti-arrhythmic
+antiseizure medication
+oral live typhoid vaccines
+cefmenoxime
+cefoperazone
+cefamandole
+latamoxef
+vitamin K epoxide reductase
+mineral oil
+6MNA
+beta-adrenergic receptor blocking agents
+peptide
+peptidase
+nalidixic acid
+REVIA
+hydantoin
+naratriptan
+AMERGE
+glatiramer acetate
+beta-interferon
+CYP2C9 isoenzyme
+Starlix
+metformin 500 mg
+nateglinide
+protein binding
+non-selective beta-adrenergic-blocking agents
+anti-asthma medications
+ergot derivatives
+gelatin
+OVCON-35
+penicillin V
+oral vitamin B-12
+streptomycin
+kanamycin
+Natrecor
+antithrombotic agent
+ganglionic blocking agents
+adrenergic beta-receptor blockers
+nicardipine HCl
+nilutamide
+cimetidine 400 mg
+nisoldipine
+SULAR
+tolazoline
+dobutamine
+surfactant
+sodium nitroprusside
+INOmax
+magnesium trisilicate
+nitrofurantoin
+antibacterial
+hypotensive drugs
+inotropic agent
+inhaled anesthetics
+cytochrome p-450-linked drug
+nizatidine
+antituberculosis
+fluoxetine hydrochloride
+norfluoxetine
+active 10-monohydroxy metabolite
+CYP4A11
+UDP-glucuronyl transferase
+CYP3A5
+dextropropoxyphene
+TAXOL
+teniposide
+diphen
+dehydrated alcohol USP
+PEGASYS
+CYP 2C19
+COPEGUS
+ribavirin
+antiviral
+HIV
+abortifacient
+benzyl alcohol
+piperacillin
+PIPRACIL
+other penicillins
+copper
+tazobactam
+phenothiazine
+Antiminth
+piperazine
+pyrantel
+benazepril
+VIOXX
+cimetidine [800
+rofecoxib
+rifampin 600 mg
+CYP 1A2
+tacrine
+isoenzyme CYP3A4
+alfentanyl
+silver preparation
+Cordarone
+nandrolone
+oxandrolone
+Anavar
+Anadrol
+stanozolol
+Winstrol
+BiCNU
+Aralen
+Depakote
+Tegison
+Plaquenil
+Trexan
+birth control pills
+acetophenazine
+mesoridazine
+Serentil
+Trilafon
+promazine
+Sparine
+Mellaril
+trifluoperazine
+Stelazine
+triflupromazine
+Vesprin
+trimeprazine
+Temaril
+Mithracin
+Depakene
+sulfapyridine
+Lithostat
+Furoxone
+Furadantin
+Quinidex
+Quinamm
+Diasone
+AquaMEPHYTON
+Peganone
+Mesantoin
+antidiabetics
+Mexate
+Aldomet
+epoxide metabolite
+GABITRIL
+valdecoxib
+2C9
+arachidonate
+collagen
+Valdecoxib 10 mg
+Valdecoxib 40 mg
+BEXTRA
+Ortho-Novum 1/35?
+Vardenafil
+Vardenafil 5 mg
+800
+Vardenafil 10 mg
+Ki   100uM
+Vardenafil 20 mg
+nifedipine 30 mg
+terazosin
+terazosin 10
+tamsulosin 0.4 mg
+alpha-blocker
+ZDV
+deoxycytidine kinase
+HIVID
+antiretroviral nucleoside analogues
+glutethimide
+iodoquinol
+/Aluminum-containing Antacid
+Sonata
+imipramine 75 mg
+thioridazine 50 mg
+zaleplon 10 mg
+zaleplon
+naltrexone
+adsorbents
+beta-adrenergic antagonist
+progestin preparations
+sulfur
+glucocorticoids
+UROXATRAL
+Caverject
+amiloride HCl
+Cytadren
+photosensitizing agents
+amiodarone 200 mg
+Histamine H2 antagonists
+herbal preparations
+amlodipine 10 mg
+AMOXIL
+phenytoin - amphetamines
+nephrotoxic medications
+amyl nitrite
+anileridine
+Apraclonidine
+cardiovascular drugs
+oral dexamethasone
+Beta-adrenergic receptor
+anticoagulant agents
+1- adrenergic receptor antagonism
+Pyrazolone
+Urinary
+prostaglandin synthase
+Auranofin
+Azlocillin
+baclofen
+COLAZAL
+REGRANEX
+Bentiromide
+DIDREX
+Benzthiazide
+Antipsychotic drugs
+Anti-arrhythmics
+Perhexiline hydrogen maleate
+CASODEX
+PCI
+antibiotic
+bortezomib
+MYOBLOC
+pressor effects
+AZOPT
+Dexbrompheniramine
+local anesthetic
+vasopressor drugs
+threohydrobupropion metabolite
+WELLBUTRIN Tablets
+buspirone hydrochloride
+trazodone hydrochloride
+cortisone
+butalbital
+butenafine HCl
+DOSTINEX
+Cytochrome P450 1A2
+Vitamin D2
+calcium acetate
+cefamandole naftate
+candesartan cilexetil
+candesartan
+s effect
+adrenergic blocking drugs
+anti-malarial drugs
+Geocillin
+dopamine d2 receptor antagonists
+HEMABATE
+Ocupress
+caspofungin acetate
+h2-receptor antagonists
+glucose oxidase
+Cefizox
+ERBITUX
+cytochrome P450 isozymes 1A2
+lithium preparation
+Chlorotrianisene
+anti-depressants
+oral miconazole
+Tagamet 300
+quinolone class antimicrobial
+tetracyclic antidepressant
+anticonvulsant agent
+LEUSTATIN
+leprosy
+hypoglycemic effect
+lasma
+cns-depressant action
+clonidine hydrochloride
+clorazepate dipotassium
+activated prothrombin complex concentrate
+tranexamic acid
+other antibiotics
+curariform muscle relaxants
+Sodium cephalothin
+factors II
+anti-factor Xa
+Cromolyn sodium
+FLEXERIL
+Cyclopentolate
+Trecator-SC
+dantrolene sodium
+dapsone hydroxylamine
+HMG-CoA
+ENABLEX
+denileukin diftitox
+rauwolfia alkaloid
+desipramine hydrochloride
+nd female
+Antitubercular drugs
+sevoflurane
+dexmedetomidine
+Neuromuscular Blockers
+ZINECARD
+Dexrazoxane
+thyroid medication
+Benzylpenicillin
+diltiazem hydrochloride
+Dimenhydrinate
+Oxytocin
+PROSTIN E2
+Diphenhydramine hydrochloride
+Diphenoxylate HCl
+docetaxel
+Trimethoprim 160 mg
+potassium depleting diuretics
+dolasetron mesylate
+Pulmozyme
+dorzolamide
+Cardiovascular agents
+Gastrointestinal agents
+Hypoglycemics
+cns acting drugs
+xanthine bronchodilators
+live-attenuated vaccines
+anti-hiv protease inhibitors
+EMTRIVA
+mao-b inhibitor
+potassium-sparing antihypertensives
+PROCRIT
+Enoxaparin
+transaminases
+CNS Drug
+ProSom
+Warfarin Eszopiclone 3
+EDECRIN
+non- steroidal antiinflammatory agent
+Trecator
+Ethopropazine
+Zarontin
+hydantoin antiepileptic
+ethotoin
+Ethoxzolamide
+Non-nucleoside reverse transcriptase inhibitors
+dong quai
+saw palmetto
+etidronate
+ketone bodies
+Etonogestrel
+ETOPOPHOS
+cyclosporin A
+low-dose combination oral contraceptives
+Resins
+hydantoins
+PROPECIA
+PROSCAR
+stress
+Cytosine arabinoside
+FLUDARA
+Anabolic steroids
+long-acting benzodiazepines
+ask
+formoterol fumarate
+inhalations
+phosphatases
+Gemzar
+gly
+sulfa-based drug
+monoamine oxidase inhibitor
+steroid medicine
+extended release tablets
+Robinul
+Factrel
+ZOLADEX
+multi-day
+dextromethorphan hydrobromide
+Noncardioselective beta-blockers
+oral haloperidol
+adrenaline
+Cocaine
+hypoglycemic medications
+steroidal anti-inflammatory agent
+hydroflumethiazide
+protein-bound iodine
+Ibandronate 150 mg
+dialysis solutions
+glucose dehydrogenase
+icodextrin
+EPA
+idoxuridine
+decongestants
+Imipramine hydrochloride
+Neuroleptic
+Tadalafil
+TNFa
+infliximab
+sympatholytic
+?? ? Beta-blockers
+laxative
+Isoproterenol hydrochloride
+ISUPREL
+isotretinoin
+azole antifungal
+INH
+Furosemide TORADOLIV
+Ibuprofen - L-arginine
+phenylalanine
+lansoprazole 30 mg
+thimerosal
+levamisole
+CYP3A4 isoform
+likely
+CNS Agents
+Levosimendan
+Somatrem
+Adrenergic Agents
+free thyroxin
+Thyroid hormonal
+lipid-lowering drugs
+loxapine
+halofantrine
+sulfadoxine
+Orlistat
+Nabilone
+aluminum-containing antacid
+nafarelin acetate
+interferon beta-1a
+Tilade
+Oral neomycin
+Vitamin B3
+Maalox TC
+hepatic cytochrome P- 450
+Ranitidine 150 mg
+Tizoxanide
+nitazoxanide
+nitric oxide donor compounds
+nortriptyline hydrochloride
+Nucleoside Analogues Didanosine
+p53
+peginterferon
+alpha interferon
+non-depolarizing muscle relaxants
+Methotrexate Piperacillin
+Antimycobacterial Agents
+Garlic Cap
+Sulfacetamide preparation
+Carmustine
+Daunorubicin
+Divalproex
+Gold salt
+anti-infectives
+Plicamycin
+Acetohydroxamic acid
+Sulfoxone
+Mephenytoin
+valdecoxib 20 mg
+tamsulosin
+hypnotic agent
